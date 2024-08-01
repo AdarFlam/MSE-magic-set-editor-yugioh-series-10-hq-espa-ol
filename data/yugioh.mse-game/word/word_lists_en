@@ -1,0 +1,49 @@
+﻿############################################################## Word lists en
+word list:
+	name: ENrace
+	word: Aqua
+	word: Bestia
+	word: Bestia Alada
+	word: Ciberso
+	word: Demonio
+	word: Dinosaurio
+	word: Dragón
+	word: Guerrero
+	word: Guerrero-Bestia
+	word: Hada
+	word: Ilusión
+	word: Insecto
+	word: Lanzador de Conjuros
+	word: Máquina
+	word: Pez
+	word: Planta
+	word: Psíquico
+	word: Piro
+	word: Reptil
+	word: Roca
+	word: Serpiente Marina
+	word: Trueno
+	word: Wyrm
+	word: Zombi
+	word: Galáctico
+	word: Bestia Divina
+	word: Dios Creador
+word list:
+	name: ENeffect
+	word: Cantante
+	word: Cantante Oscuro
+	word: Efecto
+	word: Enlace
+	word: Ficha
+	word: Fusión
+	word: Géminis
+	word: Invocación Especial
+	word: Péndulo
+	word: Ritual
+	word: Sincronía Oscura
+	word: Spirit
+	word: Toon
+	word: Unión
+	word: Volteo
+	word: Xyz
+	word: Sincronía
